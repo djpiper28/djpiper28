@@ -7,12 +7,8 @@ doing computer science information security as an embedded masters degree.
 ## Languages
 ### Average C enjoyer
 C is a good programming langauge with like 3 features which makes it even better.
+C is love, C is life. C is eternal js is temporary.
 
-### c code golfer
-```c
-#include <unistd.h>
-main(){for(;;)fork();
-```
 ### python apologist
 python is good for scripting
 ### js hater
