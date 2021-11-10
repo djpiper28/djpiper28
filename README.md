@@ -1,5 +1,6 @@
 # Danny Piper | They/Them
 [My bad website](https://www.djpiper28.co.uk)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djpiper28)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Student at Royal Holloway University of London
 Doing Computer Science (Information Security) as an embedded masters degree.
