@@ -8,14 +8,15 @@
 Doing Computer Science (Information Security) as an embedded masters degree.
 
 ## Languages
-### Average C enjoyer
+- Average C enjoyer
 C is a good programming langauge with like 3 features which makes it even better.
 C is love, C is life. C is eternal js is temporary.
 
-### Python Apologist
+- Python Apologist
 Python is good for scripting, better than bash even.
-### js Hater
+
+- js Hater
 Frick js. it is very bad. source: my @rs3.
 
 ## Epic Gaymer
-Playing good games such as TF2, Duck Game, Deep Rock Galatic and, Minecraft.
+Playing good games such as TF2, GMod, Duck Game, Deep Rock Galatic and, Minecraft.
