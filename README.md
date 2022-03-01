@@ -3,6 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djpiper28&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djpiper28&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=djpiper28)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Student at Royal Holloway University of London
 Doing Computer Science (Information Security) as an embedded masters degree.
