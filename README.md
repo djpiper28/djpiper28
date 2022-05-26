@@ -8,6 +8,22 @@
 Doing Computer Science (Information Security) as an embedded masters degree.
 
 ## Languages
+These are the langs I know and, in order of my preference of using them.
+
+| C | Go | C++ | Java | Python |
+|---|----|-----|------|--------|
+
+## Technologies
+| SQL (Postgres / Sqlite) | Nginx | Jenkins | Git | SVN |
+|-------------------------|-------|---------|-----|-----|
+
+## Setup
+ - Neovim (nvChad)
+ - Tiled Terminals
+ - Garuda Linux
+
+---
+
 - Average C enjoyer
 C is a good programming langauge with like 3 features which makes it even better.
 C is love, C is life. C is eternal js is temporary.
@@ -19,4 +35,4 @@ Python is good for scripting, better than bash even.
 Frick js. it is very bad. source: my @rs3.
 
 ## Epic Gaymer
-Playing good games such as TF2, GMod, Duck Game, Deep Rock Galatic and, Minecraft.
+Playing good games such as **TF2**, GMod, Duck Game, Deep Rock Galatic and, Minecraft.
