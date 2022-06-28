@@ -1,4 +1,4 @@
-# Danny Piper | They/Them
+# Danny Piper
 [My bad website](https://www.djpiper28.co.uk)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djpiper28&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -27,6 +27,7 @@ These are the langs I know and, in order of my preference of using them.
 - Average C enjoyer
 C is a good programming langauge with like 3 features which makes it even better.
 C is love, C is life. C is eternal js is temporary.
+C is so good they made 2 sequels!
 
 - Python Apologist
 Python is good for scripting, better than bash even.
