@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djpiper28&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Student at Royal Holloway University of London
-Doing Computer Science (Information Security) as an embedded masters degree.
+Doing Computer Science (Information Security) as a bachelor's degree.
 
 ## Languages
 These are the langs I know and, in order of my preference of using them.
@@ -19,8 +19,15 @@ These are the langs I know and, in order of my preference of using them.
 
 ## Setup
  - Neovim (nvChad)
- - Tiled Terminals
+ - Konsole with a terminal multiplexer
  - Garuda Linux
+ 
+## My High Quality Puter
+ - AyyMD EPYC 7551P
+ - 128 GiB ECC RAM
+ - AyyMD Rx 6800
+ - Super Micro  H11SSL-i
+ - Dongles for audio Usb A to Usb C, Usb C to 3.5mm for audio
 
 ---
 
