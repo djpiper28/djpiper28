@@ -32,7 +32,7 @@ These are the langs I know and, in order of my preference of using them.
 ---
 
 - Average C enjoyer
-C is a good programming langauge with like 3 features which makes it even better.
+C is a good programming language with like 3 features which makes it even better.
 C is love, C is life. C is eternal js is temporary.
 C is so good they made 2 sequels!
 
