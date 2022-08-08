@@ -18,16 +18,12 @@ These are the langs I know and, in order of my preference of using them.
 |-------------------------|-------|---------|-----|-----|
 
 ## Setup
- - Neovim (nvChad)
- - Konsole with a terminal multiplexer
- - Garuda Linux
+| Neovim (nvChad) | Konsole with a terminal multiplexer | Garuda Linux |
+|-----------------|-------------------------------------|--------------|
  
 ## My High Quality Puter
- - AyyMD EPYC 7551P
- - 128 GiB ECC RAM
- - AyyMD Rx 6800
- - Super Micro  H11SSL-i
- - Dongles for audio Usb A to Usb C, Usb C to 3.5mm for audio
+| AyyMD EPYC 7551P | 128 GiB ECC RAM | AyyMD Rx 6800 | Super Micro  H11SSL-i | Dongles for audio Usb A to Usb C, Usb C to 3.5mm for audio |
+|------------------|-----------------|---------------|-----------------------|------------------------------------------------------------|
 
 ---
 
@@ -38,7 +34,6 @@ C is so good they made 2 sequels!
 
 - Python Apologist
 Python is good for scripting, better than bash even.
-
 - js Hater
 Frick js. it is very bad. source: my @rs3.
 
